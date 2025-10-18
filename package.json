@@ -1,0 +1,12 @@
+{
+  "name": "cookie-blocker",
+  "version": "1.0.0",
+  "description": "Safe auto-dismiss cookie consent extension (demo + tests)",
+  "main": "Background.js",
+  "scripts": {
+    "test-demo": "node tests/test_demo.js"
+  },
+  "devDependencies": {
+    "puppeteer": "^20.0.0"
+  }
+}

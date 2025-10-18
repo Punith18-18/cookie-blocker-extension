@@ -1,0 +1,4 @@
+{
+  "notes": "Add site-specific selectors here. Format: {\"domain\": [\"selector1\",\"selector2\"]}",
+  "example.com": ["#cookie-banner", ".consent-modal"]
+}
